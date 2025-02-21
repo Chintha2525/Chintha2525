@@ -8,7 +8,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=brightgreen&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=Chintha2525&label=Profile+Views&color=brightgreen&style=flat">
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chintha2525&theme=radical&row=1&column=7" />
 </p>
 
 ---
