@@ -42,11 +42,11 @@
 
 ## 📊 GitHub Stats
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintha2525&show_icons=true&theme=synthwave)
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintha2525&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintha2525&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintha2525&layout=compact&theme=tokyonight)
 
 ---
 
