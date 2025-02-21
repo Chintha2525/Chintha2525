@@ -40,16 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintha2525&show_icons=true&theme=tokyonight)
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintha2525&layout=compact&theme=tokyonight)
-
----
-
 ### 🌍 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/chinthamani-g-02b29a265" target="_blank">
