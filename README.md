@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Building+scalable+web+applications">
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chintha2525&label=Profile+Views&color=brightgreen&style=flat">
-</p>
-
 ---
 
 ### 🛠 **Tech Stack & Tools**
@@ -25,30 +20,15 @@
 
 ---
 
-### 📊 **GitHub Stats & Streak**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chintha2525&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chintha2525&theme=radical" />
-</p>
-
----
-
-### 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chintha2525&theme=radical&row=1&column=7" />
-</p>
-
----
-
 ### 🌍 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/chinthamani-g-02b29a265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:chinthamani2525@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://chinthamani-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
